@@ -1,0 +1,34 @@
+{
+    "profiles":[
+        {
+            "name": "Saturnino de Britto",
+            "occupation": "Engeneer",
+            "age": 65,
+            "birthPlace": "Campos dos Goytacazes, Brazil"
+        },
+        {
+            "name": "Napoléon Bonaparte",
+            "occupation": "Political leader",
+            "age": 51,
+            "birthPlace": "Ajaccio, France"
+        },
+        {
+            "name": "Joaquim Maria Machado de Assis",
+            "occupation": "Author",
+            "age": 69,
+            "birthPlace": "Rio de Janeiro, Brazil"
+        },
+        {
+            "name": "Robert Nesta Marley",
+            "occupation": "Musician",
+            "age": 36,
+            "birthPlace": "Nine Mile, Jamaica"
+        },
+        {
+            "name": "Elton Hercules John",
+            "occupation": "Musician",
+            "age": 72,
+            "birthPlace": "Pinner, United Kingdon"
+        }
+    ]
+}
